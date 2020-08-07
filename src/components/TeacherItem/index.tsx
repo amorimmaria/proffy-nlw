@@ -8,21 +8,23 @@ function TeacherItem(){
   return (
     <article className="teacher-item">
     <header>
-      <img src="https://avatars3.githubusercontent.com/u/44977553?s=460&u=dbda94fab500e17ffd54959e0edf8f6fe6f27f73&v=4" alt="Maria das Graças"/>
+      <img src="https://avatars2.githubusercontent.com/u/2254731?s=460&amp;u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&amp;v=4" alt="Diego Fernandes"/>
       <div>
-        <strong>Maria das Graças</strong>
-        <span>Matemática</span>
+        <strong>Diego Fernandes</strong>
+        <span>Química</span>
       </div>
     </header>
 
     <p>
-      Professora de matemática.
+    Entusiasta das melhores tecnologias de química avançada.
+    <br /><br />
+    Apaixonado por explodir coisas em laboratório e por mudar a vida das pessoas através de experiências. Mais de 200.000 pessoas já passaram por uma das minhas explosões.
     </p>
 
     <footer>
       <p>
         Preço/hora
-        <strong>R$20,00</strong>
+        <strong>R$80,00</strong>
       </p>
       <button type="button">
         <img src={whatsappIcon} alt="Whatsapp"/>

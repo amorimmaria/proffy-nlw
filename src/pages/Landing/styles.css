@@ -8,7 +8,7 @@
   align-items: center;
 
 
-  color: var(--color-text-in primary);
+  color: var(--color-text-in-primary);
   background: var(--color-primary);
 }
 
@@ -45,7 +45,7 @@
   width: 30rem;
   height: 10.4rem;
   border-radius: 0.8rem;
-  margin-right: 1.6rem;
+  /*margin-right: 1.6rem;*/
   font: 700 2.0rem Archivo;
 
   display: flex;
@@ -121,6 +121,7 @@
 
   .logo-container{
     grid-area: logo;
+    text-align: left;
     align-self: center;
     margin: 0;
   }
