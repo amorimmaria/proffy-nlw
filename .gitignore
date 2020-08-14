@@ -1,19 +1,17 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
-**/node_modules
+node_modules
 /.pnp
 .pnp.js
-.sqlite
+*.sqlite
 
-.expo/
+**/.expo
 npm-debug.*
 *.jks
 *.p8
 *.p12
 *.key
 *.mobileprovision
-.orig.
+*.orig.*
 web-build/
 
 # macOS
