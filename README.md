@@ -5,7 +5,10 @@ A aplicação Proffy foi uma aplicação desenvolvida para dispositivos mobile e
 ## Tecnologias
 
 - Typescript
-- React
+- Reactjs
+- React Native
 - Expo
 - Express
+- Nodejs
+- Axios
 
