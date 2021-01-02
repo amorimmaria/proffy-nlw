@@ -8,3 +8,4 @@ A aplicação Proffy foi uma aplicação desenvolvida para dispositivos mobile e
 - React
 - Expo
 - Express
+
