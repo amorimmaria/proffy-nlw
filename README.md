@@ -12,3 +12,12 @@ A aplicação Proffy foi uma aplicação desenvolvida para dispositivos mobile e
 - Nodejs
 - Axios
 
+## Server
+-   [Node.js](https://nodejs.org/)
+-   [Express](https://expressjs.com/)
+-   [Cors](https://www.npmjs.com/package/cors)
+
+## Web
+-   [React](https://pt-br.reactjs.org/)
+-   [Typescript](https://www.typescriptlang.org/)
+-   [Axios](https://www.npmjs.com/package/axios)
